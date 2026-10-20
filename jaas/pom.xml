@@ -32,7 +32,7 @@
         <spring.boot.version>1.4.2.RELEASE</spring.boot.version>
         <springfox-swagger2.version>2.6.1</springfox-swagger2.version>
         <guava.version>19.0</guava.version>
-        <commons-lang3.version>3.4</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-math.version>2.1</commons-math.version>
         <maven-resources-plugin.version>3.0.1</maven-resources-plugin.version>
         <swagger2markup.version>1.1.0</swagger2markup.version>
